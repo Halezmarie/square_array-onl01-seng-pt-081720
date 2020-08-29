@@ -2,7 +2,7 @@ def square_array(array)
 newArray=[]
 array.each do |numbers|
 # pipes 
-numbers=numbers**
+numbers=numbers**2
 # I am squaring 
 newArray<<numbers
 end 
