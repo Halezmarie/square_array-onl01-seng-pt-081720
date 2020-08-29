@@ -5,4 +5,5 @@ array.each do |numbers|
 numbers=numbers**
 # I am squaring 
 newArray<<numbers
+
 end
