@@ -6,5 +6,5 @@ numbers=numbers**
 # I am squaring 
 newArray<<numbers
 end 
-
+newArray
 end
